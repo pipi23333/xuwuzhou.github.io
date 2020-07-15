@@ -14,9 +14,9 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+title: Mr.Z的万事屋
+name: 小周的万事屋
+description: 若一去无回，便一去不回
 
 github: https://github.com/showzeng/Minimalism
 rss: true
